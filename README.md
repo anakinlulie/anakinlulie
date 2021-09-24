@@ -1,16 +1,33 @@
-### Hi there 👋
+<h3> Hey there 👋</h3>
+<h3> My name is Lucas! </h3>
 
-<!--
-**anakinlulie/anakinlulie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p> Welcome! I am Lucas a student of information systems fascinated on world of programming!</p>
 
-Here are some ideas to get you started:
+<h4> ✍️ I currently work </h4>
+<ul>
+  <li> - 🎓 Bachelor's Student In Information Systems (2021 - 2024)</li>
+  <li> - 🎓 Get an internship</li>
+  <li> - 🏃‍♂️ I want to improve my programming skills</li>
+  <li> - ✈️ Learn some Database, Javascript and an IDE</li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4> 🧗‍♂️ About me </h4>
+<ul>
+  <li> - 🏴‍☠️ I love One Piece since i was 11 years old</li>
+  <li> - 🎓 I did 2 years of graduation in Physics, but i gave up (2018 - 2020)</li>
+  <li> - ✍️ I love read comics and books (Manga, HQ, Webtoon, etc)</li>
+</ul>
+
+<h4> 🧑‍🚀 Skills </h4>
+<ul>
+  <li> - 📄 HTML   </li>
+  <li> - 🧑‍🎨 CSS </li>
+  <li> - ☕ Learn Java   </li>
+  <li> - 🐍 Python</li>
+</ul>
+
+
+<!---
+LusgaO/LusgaO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
