@@ -22,7 +22,7 @@
 <ul>
   <li> - 📄 HTML   </li>
   <li> - 🧑‍🎨 CSS </li>
-  <li> - ☕ Learn Java   </li>
+  <li> - ☕ Java   </li>
   <li> - 🐍 Python</li>
 </ul>
 
