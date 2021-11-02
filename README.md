@@ -8,7 +8,7 @@
   <li> - 🎓 Bachelor's Student In Information Systems (2021 - 2024)</li>
   <li> - 🎓 Get an internship</li>
   <li> - 🏃‍♂️ I want to improve my programming skills</li>
-  <li> - ✈️ Learn some Database, Javascript and an IDE</li>
+  <li> - ✈️ Learn some Database, Javascript</li>
 </ul>
 
 <h4> 🧗‍♂️ About me </h4>
