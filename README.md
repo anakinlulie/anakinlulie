@@ -5,7 +5,7 @@
 
 <h4> ✍️ I currently work </h4>
 <ul>
-  <li> - 🎓 Bachelor's Student In Information Systems (2021 - 2024)</li>
+  <li> - 🎓 Bachelor's degree In Information Systems (2021 - 2024)</li>
   <li> - 🎓 Get an internship</li>
   <li> - 🏃‍♂️ I want to improve my programming skills</li>
   <li> - ✈️ Learn some Database, Javascript</li>
