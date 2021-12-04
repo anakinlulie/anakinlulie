@@ -13,6 +13,8 @@
 
 <h4> 🧗‍♂️ About me </h4>
 <ul>
+  <img alt="imagem" src ="![image](https://user-images.githubusercontent.com/88242096/144691507-d50d7367-cd0c-470a-8478-3790c0c33f0d.png)
+" >
   <li> - 🏴‍☠️ I love One Piece since i was 11 years old</li>
   <li> - 🎓 I did 2 years of graduation in Physics, but i gave up (2018 - 2020)</li>
   <li> - ✍️ I love read comics and books (Manga, HQ, Webtoon, etc)</li>
