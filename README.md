@@ -1,9 +1,9 @@
-<h3> Hey there 👋</h3>
-<h3> My name is Lucas! </h3>
+<h3> Hey, I´m Lucas de Oliveira 👋</h3>
 
-<p> Welcome! I am Lucas a student of information systems fascinated on world of programming!</p>
 
-<h4> ✍️ I currently work </h4>
+<p> I am Lucas a student of information systems fascinated on world of programming!</p>
+
+<h4> I currently work </h4>
 <ul>
   <li> - 🎓 Bachelor's degree In Information Systems (2021 - 2024)</li>
   <li> - 🎓 Get an internship</li>
@@ -11,14 +11,14 @@
   <li> - ✈️ Learn some Database, Javascript</li>
 </ul>
 
-<h4> 🧗‍♂️ About me </h4>
+<h4> About me </h4>
 <ul>
   <li> - 🏴‍☠️ I love One Piece since i was 11 years old</li>
   <li> - 🎓 I did 2 years of graduation in Physics, but i gave up (2018 - 2020)</li>
   <li> - ✍️ I love read comics and books (Manga, HQ, Webtoon, etc)</li>
 </ul>
 
-<h4> 🧑‍🚀 Skills </h4>
+<h4> Skills </h4>
 <ul>
   <li> - 📄 HTML   </li>
   <li> - 🧑‍🎨 CSS </li>
