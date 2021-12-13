@@ -20,10 +20,7 @@
 
 <h4> Skills </h4>
 <ul>
-  <li> <img src="![htmllogo](https://user-images.githubusercontent.com/88242096/145907832-244a1ab8-f012-4f99-b4cb-73d0e0d684f3.png)
-" alt="Linkedin">
-    HTML   
-  </li>
+  <li> HTML</li>
   <li> CSS </li>
   <li> Java   </li>
   <li> Python</li>
