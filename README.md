@@ -8,7 +8,7 @@
   <li> Bachelor's degree In Information Systems (2021 - 2024)</li>
   <li> Get an internship</li>
   <li> I want to improve my programming skills</li>
-  <li> Learn some Database, Javascript</li>
+  <li> Learn some Database and Framework</li>
 </ul>
 
 <h4> About me </h4>
@@ -24,6 +24,7 @@
   <li> CSS </li>
   <li> Java   </li>
   <li> Python</li>
+  <li> JavaScript </li>
 </ul>
 
 
