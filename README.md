@@ -6,7 +6,7 @@
 <h4> I currently work </h4>
 <ul>
   <li> Bachelor's degree In Information Systems (2021 - 2024)</li>
-  <li> Get an internship</li>
+  <li> Get an internship!</li>
   <li> I want to improve my programming skills</li>
   <li> Learn some Database and Framework</li>
 </ul>
