@@ -11,7 +11,7 @@
   <li> Aprender Banco de Dados e algum Framework/li>
 </ul>
 
-<h4> sobre mim </h4>
+<h4> Sobre mim </h4>
 <ul>
   <li> Amo One Piece desde os 11 anos de idade</li>
   <li> Fiz 2 anos de licenciatura em Física, porém desisti (2018 - 2020)</li>
