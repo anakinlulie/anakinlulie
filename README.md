@@ -1,7 +1,7 @@
 <h3> Olá, meu nome é Lucas de Oliveira👋</h3>
 
 
-<p> Sou um estudante de sistemas de informação pelo mundo da programação</p>
+<p> Sou um estudante de sistemas de informação fascinado pelo mundo da programação</p>
 
 <h4> Atualmente </h4>
 <ul>
