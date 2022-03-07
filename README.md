@@ -1,24 +1,24 @@
-<h3> Hey, I´m Lucas de Oliveira 👋</h3>
+<h3> Olá, meu nome é Lucas de Oliveira👋</h3>
 
 
-<p> I am Lucas a student of information systems fascinated on world of programming!</p>
+<p> Sou um estudante de sistemas de informação pelo mundo da programação</p>
 
-<h4> I currently work </h4>
+<h4> Atualmente </h4>
 <ul>
-  <li> Bachelor's degree In Information Systems 2/8 (2021 - 2024)</li>
-  <li> Get an internship!</li>
-  <li> I want to improve my programming skills</li>
-  <li> Learn some Database and Framework</li>
+  <li> Graduando em Sistemas de Informação2/8 (2021 - 2024)</li>
+  <li> Conseguir um estágio</li>
+  <li> Quero melhorar minhas habilidades como programador</li>
+  <li> Aprender Banco de Dados e algum Framework/li>
 </ul>
 
-<h4> About me </h4>
+<h4> sobre mim </h4>
 <ul>
-  <li> I love One Piece since i was 11 years old</li>
-  <li> I did 2 years of graduation in Physics, but i gave up (2018 - 2020)</li>
-  <li> I love read comics and books (Manga, HQ, Webtoon, etc)</li>
+  <li> Amo One Piece desde os 11 anos de idade</li>
+  <li> Fiz 2 anos de licenciatura em Física, porém desisti (2018 - 2020)</li>
+  <li> Gostos de quadrinhos(Manga, HQ, Webtoon, etc)</li>
 </ul>
 
-<h4> Skills </h4>
+<h4> Habilidades </h4>
 <ul>
   <li> HTML</li>
   <li> CSS </li>
