@@ -8,7 +8,7 @@
   <li> Graduando em Sistemas de Informação2/8 (2021 - 2024)</li>
   <li> Conseguir um estágio</li>
   <li> Quero melhorar minhas habilidades como programador</li>
-  <li> Aprender Banco de Dados e algum Framework/li>
+  <li> Aprender Banco de Dados e algum Framework </li>
 </ul>
 
 <h4> Sobre mim </h4>
