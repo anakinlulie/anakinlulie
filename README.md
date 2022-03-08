@@ -5,17 +5,17 @@
 
 <h4> Atualmente </h4>
 <ul>
-  <li> Graduando em Sistemas de Informação 2/8 (2021 - 2024)</li>
-  <li> Conseguir um estágio</li>
-  <li> Quero melhorar minhas habilidades como programador</li>
+  <li> Graduando em Sistemas de Informação 2/8 (2021 - 2024) </li>
+  <li> Conseguir um estágio </li>
+  <li> Quero melhorar minhas habilidades como programador </li>
   <li> Aprender Banco de Dados e algum Framework </li>
 </ul>
 
 <h4> Sobre mim </h4>
 <ul>
-  <li> Amo One Piece desde os 11 anos de idade</li>
-  <li> Fiz 2 anos de licenciatura em Física, porém desisti (2018 - 2020)</li>
-  <li> Gostos de quadrinhos(Manga, HQ, Webtoon, etc)</li>
+  <li> Amo One Piece desde os 11 anos de idade </li>
+  <li> Fiz 2 anos de licenciatura em Física, porém desisti (2018 - 2020) </li>
+  <li> Gostos de quadrinhos(Manga, HQ, Webtoon, etc) </li>
 </ul>
 
 <h4> Habilidades </h4>
