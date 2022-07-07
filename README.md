@@ -27,11 +27,7 @@
   <li> Python</li>
   <li> JavaScript </li>
 </ul>
-<spam>
-  ![image](https://user-images.githubusercontent.com/88242096/177837622-486510a0-b969-421f-aaa0-35e3eec978db.png)
-</spam>
-
-
+<img src = "![image](https://user-images.githubusercontent.com/88242096/177837622-486510a0-b969-421f-aaa0-35e3eec978db.png)" width="30px">
 
 
 <!---
