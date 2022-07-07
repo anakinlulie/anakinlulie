@@ -1,9 +1,8 @@
 ## Olá, meu nome é Lucas Oliveira
 
 Sou um estudante de sistemas de informação fascinado pelo mundo da programação
-<img src="![image](https://user-images.githubusercontent.com/88242096/177853446-004b7297-836b-45b0-a3cd-6b8f05148b94.png)
-"/>
-<br>
+![9Wmb](https://user-images.githubusercontent.com/88242096/177854222-32315db2-4a76-4ec1-8c84-ac81117154e3.gif)
+
 
 ### Atualmente
 <ul>
