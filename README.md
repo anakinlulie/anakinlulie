@@ -2,6 +2,10 @@
 
 
 <p> Sou um estudante de sistemas de informação fascinado pelo mundo da programação</p>
+div align="center"
+img ![image](https://user-images.githubusercontent.com/88242096/177838285-77e96557-bbd1-4ae1-bde2-5ac3880c6f2d.png) /
+/div
+
 
 <h4> Atualmente </h4>
 <ul>
