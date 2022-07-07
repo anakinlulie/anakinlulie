@@ -27,6 +27,8 @@
   <li> Python</li>
   <li> JavaScript </li>
 </ul>
+![image](https://user-images.githubusercontent.com/88242096/177837622-486510a0-b969-421f-aaa0-35e3eec978db.png)
+
 
 
 <!---
