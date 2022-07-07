@@ -1,9 +1,9 @@
-<h3> Olá, meu nome é Lucas de Oliveira👋</h3>
+## Olá, meu nome é Lucas Oliveira
 
+Sou um estudante de sistemas de informação fascinado pelo mundo da programação
+<br>
 
-<p> Sou um estudante de sistemas de informação fascinado pelo mundo da programação</p>
-
-<h4> Atualmente </h4>
+### Atualmente
 <ul>
   <li> Graduando em Sistemas de Informação 3/8 (2021 - 2024) </li>
   <li> Conseguir um estágio e começar uma iniciação científica </li>
@@ -11,26 +11,34 @@
   <li> Estudando node.js </li>
 </ul>
 
-<h4> Sobre mim </h4>
+### Sobre mim
 <ul>
   <li> Amo One Piece desde os 11 anos de idade </li>
   <li> Fiz 2 anos de licenciatura em Física, porém desisti (2018 - 2020) </li>
   <li> Gostos de quadrinhos(Manga, HQ, Webtoon, etc) </li>
   <li> Irei iniciar o 3º semestre e estou regular</li>
 </ul>
-
-<h4> Habilidades </h4>
-<ul>
-  <li> HTML</li>
-  <li> CSS </li>
-  <li> Java   </li>
-  <li> Python</li>
-  <li> JavaScript </li>
-</ul>
-<img src = "![image](https://user-images.githubusercontent.com/88242096/177837622-486510a0-b969-421f-aaa0-35e3eec978db.png)" width="30px">
+<br>
 
 
-<!---
-LusgaO/LusgaO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=kollhall&show_icons=true&theme=tokyonight)
+
+### Possuo conhecimento nas seguintes tecnologias 
+
+<div>
+   <img align="center" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />   
+   <img align="center" alt="node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />  
+   <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />  
+   <img align="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />  
+   <img align="center" alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />  
+   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />   
+</div>
+
+### Contato
+<div>
+
+   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](luska.soliver7@gmail.com)
+   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-de-oliveira-b39b41206/)
+</div>
+
