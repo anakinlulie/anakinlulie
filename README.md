@@ -23,6 +23,8 @@ Sou um estudante de sistemas de informação fascinado pelo mundo da programaç�
 
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=kollhall&show_icons=true&theme=tokyonight)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kollhall&layout=compact&langs_count=16&theme=tokyonight)](https://github.com/kollhall/github-readme-stats)
+
 ### Possuo conhecimento nas seguintes tecnologias 
 
 <div>
@@ -34,6 +36,7 @@ Sou um estudante de sistemas de informação fascinado pelo mundo da programaç�
    <img align="center" alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />  
    <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />   
 </div>
+
 
 ### Contato
 <div>
