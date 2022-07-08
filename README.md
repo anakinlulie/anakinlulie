@@ -30,13 +30,13 @@ Sou um estudante de sistemas de informação fascinado pelo mundo da programaç�
 ### Possuo conhecimento nas seguintes tecnologias 
 
 <div>
-   <img align="center" alt="html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-   <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css/css-original.svg" />   
-   <img align="center" alt="node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/node/node-original.svg" />  
-   <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />  
-   <img align="center" alt="c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
-   <img align="center" alt="c++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c++/c++-original.svg"/>
-   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />   
+   <img align="center" alt="html" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+   <img align="center" alt="css" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cs3s/css3-original.svg" />   
+   <img align="center" alt="node" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />  
+   <img align="center" alt="python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />  
+   <img align="center" alt="c" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
+   <img align="center" alt="c++" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cpluplus/cplusplus-original.svg"/>
+   <img align="center" alt="Java" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />   
 </div>
 
 
