@@ -34,8 +34,6 @@ Sou um estudante de sistemas de informação fascinado pelo mundo da programaç�
    <img align="center" alt="css" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />   
    <img align="center" alt="node" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />  
    <img align="center" alt="python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />  
-   <img align="center" alt="c" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
-   <img align="center" alt="c++" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
    <img align="center" alt="Java" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />   
 </div>
 
