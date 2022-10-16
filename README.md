@@ -11,7 +11,6 @@ Sou um estudante de sistemas de informação fascinado pelo mundo da programaç�
   <li> Graduando em Sistemas de Informação 3/8 (2021 - 2024) </li>
   <li> Conseguir um estágio e começar uma iniciação científica </li>
   <li> Quero melhorar minhas habilidades como programador </li>
-  <li> Estudando node.js </li>
 </ul>
 
 ### Sobre mim
