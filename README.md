@@ -18,7 +18,6 @@ Sou um estudante de sistemas de informação fascinado pelo mundo da programaç�
   <li> Amo One Piece desde os 11 anos de idade </li>
   <li> Fiz 2 anos de licenciatura em Física, porém desisti (2018 - 2020) </li>
   <li> Gostos de quadrinhos(Manga, HQ, Webtoon, etc) </li>
-  <li> Irei iniciar o 3º semestre e estou regular</li>
 </ul>
 <br>
 
