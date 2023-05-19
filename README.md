@@ -4,9 +4,9 @@ I´m an information systems student in Brazil. My passion for technology started
 
 <br>
 
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=kollhall&show_icons=true&theme=tokyonight)
+![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucassoliveiraa&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kollhall&layout=compact&langs_count=16&theme=tokyonight)](https://github.com/kollhall/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucassoliveiraa&layout=compact)](https://github.com/lucassoliveiraa/github-readme-stats)
 
 ### Languages and Tools
 
