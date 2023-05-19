@@ -3,9 +3,9 @@
 I´m an information systems student in Brazil. My passion for technology started when I was a kid looking for Pokémon ROMs to play and sometimes I ended up downloading malicious files that ended up crashing my computer. Technology has always made me very happy, so I want to develop tools that positively impact people's lives!
 
 <br>
-
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucassoliveiraa&show_icons=true&theme=tokyonight)
-
+<div style ="center">
+   ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucassoliveiraa&show_icons=true&theme=radical)
+</div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucassoliveiraa&layout=compact)](https://github.com/lucassoliveiraa/github-readme-stats)
 
 ### Languages and Tools
