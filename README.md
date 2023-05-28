@@ -9,11 +9,13 @@ I´m an information systems student in Brazil. My passion for technology started
 ### Languages and Tools
 
 <div>
-   <img align="center" alt="html" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-   <img align="center" alt="css" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />   
-   <img align="center" alt="node" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />  
-   <img align="center" alt="python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />  
-   <img align="center" alt="Java" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />   
+   <img align="center" alt="html" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+   <img align="center" alt="css" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />   
+   <img align="center" alt="node" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />  
+   <img align="center" alt="python" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />  
+   <img align="center" alt="Java" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />   
+   <img align="center" alt="MySQL" height="25" width="35"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
+     
 </div>
 
 
