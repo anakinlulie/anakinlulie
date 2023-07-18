@@ -17,8 +17,6 @@
     <img alt="Java" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />   
     <img alt="MySQL" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
 
-    ![image](https://github.com/lucassoliveiraa/lucassoliveiraa/assets/88242096/b840cabb-23e8-4b7e-bca2-fc465870f9af)
-
   </div>
 
   <h2>Contact</h2>
