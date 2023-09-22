@@ -15,7 +15,7 @@
     <a href = "https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target = "_blank"><img alt="javascript" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/></a>
      <a href = "https://www.python.org/" target = "_blank"><img alt="python" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/></a>
     <a href = "https://www.java.com/pt-BR/" target = "_blank"><img alt="java" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/></a>
-    <a href = "https://www.mysql.com/" target = "_blank"><img alt="mysql" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/></a>
+    <a href = "https://www.mysql.com/" target = "_blank"><img alt="mysql" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/></a>
 
   </div>
 
