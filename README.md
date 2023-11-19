@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <h1>:bicyclist: Lucas de Oliveira</h1>
 
   <p>I'm an information systems student in Brazil. My passion for technology started when I was a kid looking for Pokémon ROMs to play, and sometimes I ended up downloading malicious files that crashed my computer. Technology has always made me very happy, so I want to develop tools that positively impact people's lives!</p>
