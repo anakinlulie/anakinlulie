@@ -5,7 +5,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=lucassoliveiraa&show_icons=true&theme=dark" alt="Lucas GitHub stats">
 
-  [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api?username=lucassoliveiraa&show_icons=true&theme=dark)
+  
   
 
   <h2>Linguagens e Ferramentas</h2>
