@@ -1,13 +1,14 @@
 <div align="left">
-  <h1>:bicyclist: Lucas de Oliveira</h1>
+  <h1>Olá, me chamo Lucas de Oliveira</h1>
 
-  <p>I'm an information systems student in Brazil. My passion for technology started when I was a kid looking for Pokémon ROMs to play, and sometimes I ended up downloading malicious files that crashed my computer. Technology has always made me very happy, so I want to develop tools that positively impact people's lives!</p>
+  <p>Sou um graduando em sistemas de informação!</p>
 
   <img src="https://github-readme-stats.vercel.app/api?username=lucassoliveiraa&show_icons=true&theme=black" alt="Lucas GitHub stats">
 
+  [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api?username=lucassoliveiraa&show_icons=true&theme=transparent)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucassoliveiraa&layout=compact)](https://github.com/lucassoliveiraa/github-readme-stats)
 
-  <h2>Languages and Tools</h2>
+  <h2>Linguagens e Ferramentas</h2>
 
   <div>
     <a href = "https://www.w3schools.com/html/default.asp" target = "_blank"><img alt="html" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/></a>
@@ -19,7 +20,7 @@
 
   </div>
 
-  <h2>Contact</h2>
+  <h2>Contato</h2>
 
   <div>
     <a href="mailto:luska.soliver7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
