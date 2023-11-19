@@ -3,10 +3,10 @@
 
   <p>Sou um graduando em sistemas de informação!</p>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=lucassoliveiraa&show_icons=true&theme=black" alt="Lucas GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=lucassoliveiraa&show_icons=true&theme=dark" alt="Lucas GitHub stats">
 
-  [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api?username=lucassoliveiraa&show_icons=true&theme=transparent)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucassoliveiraa&layout=compact)](https://github.com/lucassoliveiraa/github-readme-stats)
+  [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api?username=lucassoliveiraa&show_icons=true&theme=dark)
+  
 
   <h2>Linguagens e Ferramentas</h2>
 
