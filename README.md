@@ -1,12 +1,14 @@
 <div align="left">
   <h1>Olá, me chamo Lucas de Oliveira</h1>
 
-  <p>Sou um graduando em sistemas de informação!</p>
+  <p>Sou um engenheiro de software em formação e com bastante vontade de me desenvolver. Graduando em Sistemas de Informação pelo Instituto Federal de Educação, Ciência e         
+     Tecnologia Baiano. Durante meu tempo na faculdade até agora, ganhei bastante experiência com Java, SQL e uma exposição a C/C++, Haskell e Prolog. Além disso, obtive    
+     experiência com algoritmos, OOP, modelagem de banco de dados e estrutura de dados. Atualmente, tenho estudado modelagem de sistemas orientado a objetos, testes de software,   
+     React Native e melhorando meus conhecimentos em Java, Spring Boot, Python, HTML, CSS e JavaScript.
+  </p>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=lucassoliveiraa&show_icons=true&theme=black" alt="Lucas GitHub stats">
-
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucassoliveiraa&layout=compact&theme=black")
+  <img src="https://github-readme-stats.vercel.app/api?username=lucassoliveiraa&show_icons=true&theme=dracula" alt="Lucas GitHub stats">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucassoliveiraa&layout=compact&theme=dracula")
 
   <h2>Linguagens e Ferramentas</h2>
 
