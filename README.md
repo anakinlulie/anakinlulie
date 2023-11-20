@@ -7,9 +7,9 @@
      React Native e melhorando meus conhecimentos em Java, Spring Boot, Python, HTML, CSS e JavaScript.
   </p>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=lucassoliveiraa&show_icons=true&theme=dracula" alt="Lucas GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=lucassoliveiraa&show_icons=true" alt="Lucas GitHub stats">
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucassoliveiraa&layout=compact&theme=dracula")
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucassoliveiraa&layout=compact")
 
   <h2>Linguagens e Ferramentas</h2>
 
