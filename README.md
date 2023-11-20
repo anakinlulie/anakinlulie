@@ -8,6 +8,7 @@
   </p>
 
   <img src="https://github-readme-stats.vercel.app/api?username=lucassoliveiraa&show_icons=true&theme=dracula" alt="Lucas GitHub stats">
+  
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucassoliveiraa&layout=compact&theme=dracula")
 
   <h2>Linguagens e Ferramentas</h2>
