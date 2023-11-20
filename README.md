@@ -9,7 +9,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=lucassoliveiraa&show_icons=true" alt="Lucas GitHub stats">
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucassoliveiraa&layout=compact")
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucassoliveiraa&layout=compact&theme=white")
 
   <h2>Linguagens e Ferramentas</h2>
 
