@@ -1,7 +1,7 @@
 <div align="left">
   <h1>Olá, me chamo Lucas de Oliveira</h1>
 
-  <p>Sou um engenheiro de software em formação e com bastante vontade de me desenvolver. Graduando em Sistemas de Informação pelo Instituto Federal de Educação, Ciência e         
+  <p align = "justify">Sou um engenheiro de software em formação e com bastante vontade de me desenvolver. Graduando em Sistemas de Informação pelo Instituto Federal de Educação, Ciência e         
      Tecnologia Baiano. Durante meu tempo na faculdade até agora, ganhei bastante experiência com Java, SQL e uma exposição a C/C++, Haskell e Prolog. Além disso, obtive    
      experiência com algoritmos, OOP, modelagem de banco de dados e estrutura de dados. Atualmente, tenho estudado modelagem de sistemas orientado a objetos, testes de software,   
      React Native e melhorando meus conhecimentos em Java, Spring Boot, Python, HTML, CSS e JavaScript.
