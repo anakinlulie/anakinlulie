@@ -1,4 +1,4 @@
-![apresentacão](name.jpeg)
+![apresentacao](https://github.com/lucassoliveiraa/lucassoliveiraa/assets/88242096/b7283065-044e-4ba3-9e34-f1ee94730fb5)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luska.soliver7@gmail.com)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:lucassdeoliveira@outlook.com.br)
