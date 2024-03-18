@@ -12,12 +12,12 @@ Sou Lucas, um engenheiro de software em formação e com bastante vontade de me 
 ## 💼 Linguagens e Ferramentas
 
 [![HTML](https://skillicons.dev/icons?i=html)](https://www.w3schools.com/html/default.asp)
-[![CSS3](https://skillicons.dev/icons?i=css3)](https://www.w3schools.com/css/default.asp)
-[![Java](https://skillicons.dev/icons?i=Java)](https://www.java.com/pt-BR/)
+[![CSS3](https://skillicons.dev/icons?i=css)](https://www.w3schools.com/css/default.asp)
+[![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/pt-BR/)
 [![JavaScript](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
-[![C++](https://skillicons.dev/icons?i=c++)](https://learn.microsoft.com/pt-br/cpp/cpp/?view=msvc-170)
+[![C++](https://skillicons.dev/icons?i=cpp)](https://learn.microsoft.com/pt-br/cpp/cpp/?view=msvc-170)
 [![Spring](https://skillicons.dev/icons?i=spring)](https://spring.io/)
 [![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)
 [![Postgres](https://skillicons.dev/icons?i=postresql)](https://www.postgresql.org/)
