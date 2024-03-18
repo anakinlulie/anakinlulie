@@ -1,8 +1,17 @@
-![apresentacao](https://github.com/lucassoliveiraa/lucassoliveiraa/assets/88242096/b7283065-044e-4ba3-9e34-f1ee94730fb5)
+<div align= "center">
+
+# Olá, meu nome é Lucas 
+
+![apresentacao](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnQ4aXNsOTE5dnM1MXh0Z3lnM2ppa2xxdGt2YTkzamRnOHc5Z3k0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nGMnDqebzDcfm/giphy.gif)
+
+
+<div align="justify">
+
+Minha paixão por tecnologia começou quando eu era criança procurando ROMs de Pokémon para jogar e às vezes acabava baixando arquivos maliciosos que acabavam travando meu computador. A tecnologia sempre me deixou muito feliz, por isso quero desenvolver ferramentas que impactem positivamente a vida das pessoas. Tenho bastante apreço pela utilização de ferramentas tecnologias e programação como apoio educacional para auxliar o desenvolvimento cognitivo dos jovens.
 
 
 
-Sou Lucas, um engenheiro de software em formação e com bastante vontade de me desenvolver. Graduando em Sistemas de Informação pelo Instituto Federal de Educação, Ciência e Tecnologia Baiano.
+</div>
 
 ![Lucas GitHub Status](https://github-readme-stats.vercel.app/api?username=lucassoliveiraa&show_icons=true&theme=vue)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucassoliveiraa&layout=compact&theme=vue)
@@ -18,11 +27,12 @@ Sou Lucas, um engenheiro de software em formação e com bastante vontade de me 
 [![C++](https://skillicons.dev/icons?i=cpp)](https://learn.microsoft.com/pt-br/cpp/cpp/?view=msvc-170)
 [![Spring](https://skillicons.dev/icons?i=spring)](https://spring.io/)
 [![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)
-[![Postgres](https://skillicons.dev/icons?i=postres)](https://www.postgresql.org/)
+[![Postgres](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com//)
 
 
 ## 👦 Redes Sociais
 
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:luska.soliver7@gmail.com)
-[![Outlook](https://skillicons.dev/icons?i=outlook)](mailto:lucassdeoliveira@outlook.com.br)
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/lucas-de-oliveira-b39b41206/)
+</div>
