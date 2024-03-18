@@ -1,8 +1,6 @@
 ![apresentacao](https://github.com/lucassoliveiraa/lucassoliveiraa/assets/88242096/b7283065-044e-4ba3-9e34-f1ee94730fb5)
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luska.soliver7@gmail.com)
-[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:lucassdeoliveira@outlook.com.br)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-de-oliveira-b39b41206/)
+
 
 Sou Lucas, um engenheiro de software em formação e com bastante vontade de me desenvolver. Graduando em Sistemas de Informação pelo Instituto Federal de Educação, Ciência e Tecnologia Baiano.
 
@@ -20,4 +18,11 @@ Sou Lucas, um engenheiro de software em formação e com bastante vontade de me 
 [![C++](https://skillicons.dev/icons?i=cpp)](https://learn.microsoft.com/pt-br/cpp/cpp/?view=msvc-170)
 [![Spring](https://skillicons.dev/icons?i=spring)](https://spring.io/)
 [![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)
-[![Postgres](https://skillicons.dev/icons?i=postresql)](https://www.postgresql.org/)
+[![Postgres](https://skillicons.dev/icons?i=postres)](https://www.postgresql.org/)
+
+
+## 👦 Redes Sociais
+
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:luska.soliver7@gmail.com)
+[![Outlook](https://skillicons.dev/icons?i=outlook)](mailto:lucassdeoliveira@outlook.com.br)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/lucas-de-oliveira-b39b41206/)
