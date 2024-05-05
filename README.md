@@ -1,13 +1,13 @@
 <div align= "center">
 
-# Olá, meu nome é Lucas 
+# Olá 🤙, meu nome é Lucas!
 
 ![apresentacao](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnQ4aXNsOTE5dnM1MXh0Z3lnM2ppa2xxdGt2YTkzamRnOHc5Z3k0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nGMnDqebzDcfm/giphy.gif)
 
 
 <div align="justify">
 
-Minha paixão por tecnologia começou quando eu era criança procurando ROMs de Pokémon para jogar e às vezes acabava baixando arquivos maliciosos que acabavam travando meu computador. A tecnologia sempre me deixou muito feliz, por isso quero desenvolver ferramentas que impactem positivamente a vida das pessoas. Tenho bastante apreço pela utilização de ferramentas tecnologias e programação como apoio educacional para auxliar o desenvolvimento cognitivo dos jovens.
+Minha paixão por tecnologia começou na infância, quando eu buscava ROMs de Pokémon para jogar e às vezes acabava baixando arquivos maliciosos que acabavam travando meu computador. A tecnologia sempre me deixou muito feliz, por isso quero desenvolver ferramentas que impactem positivamente a vida das pessoas. Tenho bastante apreço pela utilização de ferramentas tecnológicas e programação como apoio educacional para auxliar o desenvolvimento cognitivo dos jovens.
 
 
 
