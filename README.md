@@ -1,38 +1,24 @@
-<div align= "center">
 
-# Olá 🤙, meu nome é Lucas!
 
-![apresentacao](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnQ4aXNsOTE5dnM1MXh0Z3lnM2ppa2xxdGt2YTkzamRnOHc5Z3k0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nGMnDqebzDcfm/giphy.gif)
-
+# Hello, nice to meet you 🤙
 
 <div align="justify">
 
-Minha paixão por tecnologia começou na infância, quando eu buscava ROMs de Pokémon para jogar e às vezes acabava baixando arquivos maliciosos que acabavam travando meu computador. A tecnologia sempre me deixou muito feliz, por isso quero desenvolver ferramentas que impactem positivamente a vida das pessoas. Tenho bastante apreço pela utilização de ferramentas tecnológicas e programação como apoio educacional para auxliar o desenvolvimento cognitivo dos jovens.
+My passion for technology began in childhood when I used to download Pokémon ROMs to play. Occasionally, I would accidentally download malicious files that crashed my computer, but this only fueled my curiosity to understand how everything worked. This fascination grew into a desire to develop technological solutions that positively impact people’s lives.
 
-
+Currently, I am pursuing a degree in Information Systems at the Federal Institute of Education, Science, and Technology of Bahia (IFBAIANO), with a particular interest in data science focused on environmental issues. I am also an enthusiast of using technological tools and programming as educational support to enhance young people’s cognitive development, as well as green IT and the field of HCI (Human-Computer Interaction), with a special focus on applications for people with limited educational backgrounds.
 
 </div>
 
-![Lucas GitHub Status](https://github-readme-stats.vercel.app/api?username=lucassoliveiraa&show_icons=true&theme=vue)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucassoliveiraa&layout=compact&theme=vue)
+## Language and Tools
 
-## 💼 Linguagens e Ferramentas
+<div align="justify">
 
-[![HTML](https://skillicons.dev/icons?i=html)](https://www.w3schools.com/html/default.asp)
-[![CSS3](https://skillicons.dev/icons?i=css)](https://www.w3schools.com/css/default.asp)
-[![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/pt-BR/)
-[![JavaScript](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
-[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
-[![C++](https://skillicons.dev/icons?i=cpp)](https://learn.microsoft.com/pt-br/cpp/cpp/?view=msvc-170)
-[![Spring](https://skillicons.dev/icons?i=spring)](https://spring.io/)
-[![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)
-[![Postgres](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com//)
+[![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com/)
+[![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/pt-BR/)
+[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
+[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com//)
 
-
-## 👦 Redes Sociais
-
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:luska.soliver7@gmail.com)
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/lucas-de-oliveira-b39b41206/)
-</div>
