@@ -6,7 +6,7 @@
 
 My passion for technology began in childhood when I used to download Pokémon ROMs to play. Occasionally, I would accidentally download malicious files that crashed my computer, but this only fueled my curiosity to understand how everything worked. This fascination grew into a desire to develop technological solutions that positively impact people’s lives.
 
-Currently, I am pursuing a degree in Information Systems at the Federal Institute of Education, Science, and Technology of Bahia (IFBAIANO), with a particular interest in data science focused on environmental issues. I am also an enthusiast of using technological tools and programming as educational support to enhance young people’s cognitive development, as well as green IT and the field of HCI (Human-Computer Interaction), with a special focus on applications for people with limited educational backgrounds.
+Currently, I am pursuing a degree in Information Systems at the Federal Institute of Education, Science, and Technology Baiano (IFBAIANO), with a particular interest in data science focused on environmental issues. I am also an enthusiast of using technological tools and programming as educational support to enhance young people’s cognitive development, as well as green IT and the field of HCI (Human-Computer Interaction), with a special focus on applications for people with limited educational backgrounds.
 
 </div>
 
